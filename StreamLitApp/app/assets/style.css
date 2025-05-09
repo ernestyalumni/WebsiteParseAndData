@@ -1,0 +1,28 @@
+/* Custom styling for the dashboard */
+
+/* Main text and background colors */
+.main {
+    background-color: #f5f7f9;
+    color: #262730;
+}
+
+/* Header styling */
+h1, h2, h3 {
+    color: #0068c9;
+}
+
+/* Metric styling */
+[data-testid="stMetric"] {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+/* Card-like styling for charts */
+[data-testid="stPlotlyChart"] {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}

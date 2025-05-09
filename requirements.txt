@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+pandas
+matplotlib
+plotly
+requests
+beautifulsoup4
+nltk
+supabase

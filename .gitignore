@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ensure API keys are not committed.
+.streamlit/secrets.toml
+
+# Ensure environment variables are not committed.
+.env
